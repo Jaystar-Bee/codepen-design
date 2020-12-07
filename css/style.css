@@ -245,7 +245,7 @@ body {
     margin: 0 auto;
     color: var(--color-primary);
     padding-bottom: 3rem;
-    padding-left: 5rem;
+    
 }
 .timeline__list {
     font-size: 1.8rem;

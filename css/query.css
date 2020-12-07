@@ -6,4 +6,7 @@
     .quote, .citation {
         margin-left: .5rem;
     }
+    .timeline__list-cover {
+        padding-left: 5rem;
+    }
 }
